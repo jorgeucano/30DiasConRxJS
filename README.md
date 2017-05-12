@@ -46,11 +46,20 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
 </ul>
 
 
-# Día 04
+# Día 05
 
 <ul>
   <li>Codigo => /dia-05
   <li>video => https://youtu.be/We9vC_vK2OA
   <li>github => https://github.com/jorgeucano/30DiasConRxJS
   <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-5-d07c52ac1812
+</ul>
+
+# Día 06
+
+<ul>
+  <li>Codigo => /dia-06
+  <li>video => https://youtu.be/TnIwS-c8XkM
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-6-69f1c60572ba
 </ul>
