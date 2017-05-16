@@ -63,3 +63,12 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
   <li>github => https://github.com/jorgeucano/30DiasConRxJS
   <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-6-69f1c60572ba
 </ul>
+
+# Día 07
+
+<ul>
+  <li>Codigo => /dia-07
+  <li>video => https://youtu.be/_570_ZeVZD8
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-7-e7c068e7865
+</ul>
