@@ -1,0 +1,5 @@
+// Coloque su configuración en este archivo para sobrescribir la configuración predeterminada y de usuario.
+{
+    // curso theme
+    //"editor.fontSize": 22
+}
