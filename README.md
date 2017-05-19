@@ -93,3 +93,11 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
   <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-9-fcae24a103e3
 </ul>
 
+# Día 10
+
+<ul>
+  <li>Codigo => /dia-10
+  <li>video => https://youtu.be/pJsZfC8HQ2c
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-10-514da1f3005b
+</ul>
