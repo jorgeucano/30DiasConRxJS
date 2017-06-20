@@ -101,3 +101,13 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
   <li>github => https://github.com/jorgeucano/30DiasConRxJS
   <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-10-514da1f3005b
 </ul>
+
+
+# Día 11
+
+<ul>
+  <li>Codigo => /dia-11
+  <li>video => https://youtu.be/ZarnLR7wz0w
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-11-bf99fc2c683a
+</ul>
