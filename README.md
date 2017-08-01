@@ -131,3 +131,11 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
   <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-13-452405020a6
 </ul>
 
+# Día 14
+
+<ul>
+  <li>Codigo => /dia-14
+  <li>video => https://youtu.be/uzYBFNwZyIE
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-14-f0e603a6c8c3
+</ul>
