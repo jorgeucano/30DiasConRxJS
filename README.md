@@ -157,3 +157,22 @@ https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
   <li>github => https://github.com/jorgeucano/30DiasConRxJS
   <li>Post => https://medium.com/@jorgeucano/base-30-d%C3%ADas-con-rxjs-d%C3%ADa-16-3c4e60818908
 </ul>
+
+# Día 17
+
+<ul>
+  <li>Codigo => /dia-17
+  <li>video =>  https://youtu.be/NrzRJ7ahq-4
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-d%C3%ADa-17-48de096b2fc9
+</ul>
+
+# Día 18
+
+<ul>
+  <li>Codigo => /dia-18
+  <li>video =>  https://youtu.be/b6byKp2mzro
+  <li>github => https://github.com/jorgeucano/30DiasConRxJS
+  <li>Post => https://medium.com/@jorgeucano/d%C3%ADas-con-rxjs-d%C3%ADa-18-4c7c51562c0
+</ul>
+
