@@ -1,5 +1,5 @@
 function foo(){
-    console.log('Hello');
+    console.log('Hello 1');
     return 42;
     return 100;
 }
@@ -7,7 +7,7 @@ function foo(){
 console.log(foo());
 
 var fooRxJS = Rx.Observable.create(function(observer){
-    console.log('Hello');
+    console.log('Hello 2');
     observer.next(42);
     observer.next(100);
     observer.next(200);
@@ -16,9 +16,9 @@ var fooRxJS = Rx.Observable.create(function(observer){
     }, 1000);
 });
 
-console.log('Antes');
+console.log('before');
 fooRxJS.subscribe(function(x){
     console.log(x);
 });
 
-console.log('Despues');
+console.log('after');
